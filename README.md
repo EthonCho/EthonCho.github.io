@@ -56,7 +56,7 @@ deploy:
 
 2.建置[repository](https://github.com/new)，並且定義名稱"Hexo"。
 
-3.建立後，會有一組 http://github.com/yourname/Hexo 的產生，並修改_config.yml資訊對應輸入。
+3.建立後，會有一組 http://github.com/Ethoncho/Ethoncho.github.io.git 的產生，並修改_config.yml資訊對應輸入。
 ```
 deploy:
   type: git
